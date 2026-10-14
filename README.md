@@ -1086,6 +1086,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Company Check](https://api.foretak.dev) `https://api.foretak.dev/mcp`
   [![Company Check MCP connector](https://glama.ai/mcp/connectors/io.github.foretak/registry-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.foretak/registry-mcp)
   🔓 - Look up companies and filings in the UK, Norwegian and Swedish registers, plus UK charges and insolvencies.
+- [Compliance Engine](https://jsonexlab.com/compliance/) `https://compliance-engine-mcp.mcpize.run/mcp`
+  [![Compliance Engine MCP connector](https://glama.ai/mcp/connectors/run.mcpize.compliance-engine-mcp/compliance-engine/badges/score.svg)](https://glama.ai/mcp/connectors/run.mcpize.compliance-engine-mcp/compliance-engine)
+  🔓 - Sanctions screening (OFAC/UK/EU/UN) + 11.7K PEP + 20K entities (GLEIF).
+
 - [CompliAPI](https://compliapi.com) `https://api.compliapi.com/mcp`
   [![CompliAPI MCP connector](https://glama.ai/mcp/connectors/com.compliapi/screening/badges/score.svg)](https://glama.ai/mcp/connectors/com.compliapi/screening)
   🔓 - Screen crypto addresses, emails, websites, IDs and countries against OFAC, EU, UK and other sanctions lists.
@@ -1384,6 +1388,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [VetAgent](https://vetagent.dev) `https://vetagent.dev/mcp`
   [![VetAgent MCP connector](https://glama.ai/mcp/connectors/dev.vetagent/vetagent/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vetagent/vetagent)
   🔓 - Pre-trade crypto token risk check: sell simulation, taxes, liquidity depth and pair age.
+- [Watch Engine](https://jsonexlab.com/watch/) `https://watch-engine-mcp.mcpize.run/mcp`
+  [![Watch Engine MCP connector](https://glama.ai/mcp/connectors/run.mcpize.watch-engine-mcp/watch-engine/badges/score.svg)](https://glama.ai/mcp/connectors/run.mcpize.watch-engine-mcp/watch-engine)
+  🔓 - Currency rates, VAT rates, and tariff rates for 200+ countries. Daily cron updates.
+
 - [XFINLAB Intelligence](https://www.xfinlab.com/intelligence-api.html) `https://api.xfinlab.com/api/mcp`
   [![XFINLAB Intelligence MCP connector](https://glama.ai/mcp/connectors/io.github.lnanology/xfinlab/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lnanology/xfinlab)
    🔓 - Market events, FinBERT sentiment, technical analysis, and AI news intelligence feeds; tools need a free API key.
