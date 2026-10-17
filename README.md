@@ -3015,3 +3015,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 ## Contributing
 
 Found a remote server that belongs here? See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Finance & Compliance
+- [JSONexLab MCP Servers](https://github.com/Alex-Dev-Web-C-DE) - 5 MCP servers for compliance, finance, documents, and trade (sanctions screening, HS codes, IBAN/VAT validation).
+
