@@ -4087,3 +4087,4 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 Found a remote server that belongs here? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
+- [PEP Screening MCP](https://github.com/Alex-Dev-Web-C-DE/pep-screening-mcp) - Screen entities against 19,408 PEP records.
